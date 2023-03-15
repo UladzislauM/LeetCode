@@ -1,3 +1,5 @@
+import Easy.TwoSum;
+
 import java.util.Arrays;
 
 public class Main {
