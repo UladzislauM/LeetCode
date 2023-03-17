@@ -1,4 +1,4 @@
-import Easy.TwoSum;
+import easy.TwoSum;
 
 import java.util.Arrays;
 
