@@ -1,8 +1,8 @@
-package medium;
+package medium.addTwoNumbers;
 
 import java.util.Objects;
 
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
 
@@ -13,7 +13,7 @@ public class ListNode {
         this.val = val;
     }
 
-    public ListNode(int val, ListNode next) {
+    ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
