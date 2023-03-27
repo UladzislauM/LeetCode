@@ -24,6 +24,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
 
             }
         }
+        return 0;
     }
 
     private class NumStrObject {
